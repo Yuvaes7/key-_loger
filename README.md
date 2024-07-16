@@ -1,6 +1,3 @@
-
-
-```markdown
 # node-keylogger
 
 Simple Node.js Linux-only keylogger using event emitters.
